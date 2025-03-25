@@ -5,9 +5,13 @@ front of the board. The height and distance fit with a standard breadboard, and
 connect to a Newton device at the same time. As it is here, the design is 
 untested. Please use with care.
 
+![pcb_3d.jpg](/pcb_3d.jpg)
+
 # Project function
 This is just a breakout board. It has no active component. I designed this 
 so I can develop a Newton dongle with USB-C.
+
+![breakout_1024.jpg](/breakout_1024.jpg)
 
 # Assembling processes
 Use a cut-in-half Molex 0714390964 connector and bend the legs
