@@ -13,6 +13,17 @@ so I can develop a Newton dongle with USB-C.
 
 ![breakout_1024.jpg](/breakout_1024.jpg)
 
+# Update: on the way to build a dongle
+
+I am planning a dongle that connects to USB-C and has a MicroSD Card on board. The
+RP2040 processor comes on a Seeed Studio Xiao PCB and connectes to an Adafruit MicroSD 
+carrier. To hook all that to the Newton, we need an additional board that converts
+the serial signal to RS422, and that handles power from USB-C, and to and from the Newton.
+
+Here is my first mini series PCB based on an earlier prototype:
+
+![IMG_5900.jpg](/IMG_5900.jpg)
+
 # Assembling processes
 Use a cut-in-half Molex 0714390964 connector and bend the legs
 
