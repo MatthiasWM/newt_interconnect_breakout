@@ -24,6 +24,15 @@ Here is my first mini series PCB based on an earlier prototype:
 
 ![IMG_5900.jpg](/IMG_5900.jpg)
 
+# Update2: a draft 3d print of the current case design
+
+To give a size comparison, this is how the dongle case will look. There are
+obviously no electronis in the case, and the "reset" and "mode" buttons, and
+the status LED light channels are still missing.
+
+![IMG_5944.jpg](/IMG_5944.jpg)
+
+
 # Assembling processes
 Use a cut-in-half Molex 0714390964 connector and bend the legs
 
